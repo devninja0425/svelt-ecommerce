@@ -1,0 +1,17 @@
+.DS_Store
+.env
+node_modules
+/.svelte
+/.svelte-kit
+/build
+/functions
+pnpm-lock.yaml
+package-lock.json
+/package
+/prod
+# Local Netlify folder
+.netlify
+dev-dist
+.vercel_build_output
+$houdini
+$kitql
